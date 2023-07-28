@@ -1,4 +1,4 @@
-name: Build ACK 5.15 With KSU 定制版
+name: Build 5.15 定制版
 on:
   workflow_dispatch:
     inputs:
